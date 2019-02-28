@@ -1,5 +1,5 @@
 public class UserOfSpeaks{
-    	Animal dog = new Retriever();
+    	Animal myPet = new Retriever();
 	
 	System.out.println( dog.speak());
 }
